@@ -2,7 +2,7 @@ package ifelse;
 
 public class IfElse {
 /*
-	Condition statement or ifelse = which evaluate the statement, that is true or falus
+	Condition statement or ifelse = which evaluates the statement, that is true or falus
 	if (boolean_expression)
 	{
 	 Execute if the boolean expression is true
