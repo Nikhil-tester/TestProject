@@ -11,7 +11,7 @@ public class Switch_Statement {
 		int score = 95; 
 		
 		//byte, short, int, or char
-		//If case is pass with breack, it will excute post all cases, until breach statement to given
+		//If case is pass with breack, it will excute post all cases, until 'breack' key statement to given
 		
 		
 		switch(score) {
