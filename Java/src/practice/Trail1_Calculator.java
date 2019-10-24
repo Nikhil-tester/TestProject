@@ -14,7 +14,10 @@ public class Trail1_Calculator {
 		System.out.println("Enter Second number :");
 		int y = scan.nextInt();
 		
-		int answer = x+y;
+		System.out.println("Enter Thrid number :");
+		int z = scan.nextInt();
+		
+		int answer = x+y+z;
 		
 		System.out.println("Answer is : " + answer );
 		
