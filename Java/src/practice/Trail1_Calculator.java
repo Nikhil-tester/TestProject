@@ -17,6 +17,7 @@ public class Trail1_Calculator {
 		System.out.println("Enter Thrid number :");
 		int z = scan.nextInt();
 		
+		//addition of three number
 		int answer = x+y+z;
 		
 		System.out.println("Answer is : " + answer );
